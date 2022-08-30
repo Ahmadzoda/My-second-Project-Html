@@ -1,0 +1,54 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+*{
+    margin: 0;
+}
+.container{
+    background-image: url(./photo_2022-08-28_16-38-04.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.container-left{
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+}
+.about{
+    display: flex;
+    justify-content: center;
+}
+.about2{
+    display: flex;
+    justify-content: center;
+}
+i{
+  display: flex;
+  justify-content: center;
+  font-size: 120px;
+  color: black;
+}
+.information{
+    padding-top: 150px;
+}
+.information1{
+    padding-top: 150px;
+}
+.information2{
+    padding-top: 150px;
+}
+.information3{
+    padding-top: 150px;
+}
+
+.justify-center {
+    display: flex;
+    justify-content: center;
+}
+.h1{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
